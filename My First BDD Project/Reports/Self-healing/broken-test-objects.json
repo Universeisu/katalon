@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Npru - Yahoo Search Results/a_www.npru.ac.thNPRU",
+      "brokenLocator": "//div[@id\u003d\u0027web\u0027]/ol/li/div/div/h3/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h3/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Npru - Yahoo Search Results/a_www.npru.ac.thNPRU_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Page_npru - Yahoo Search Results/a_www.npru.ac.thNPRU",
+      "brokenLocator": "//div[@id\u003d\u0027web\u0027]/ol/li/div/div/h3/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h3/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/New Folder/Page_npru - Yahoo Search Results/a_www.npru.ac.thNPRU_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_npru -  Google/svg",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.zgAlFc \u003e span.z1asCe.MZy1Rb \u003e svg",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_npru -  Google/svg_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/svg__yb_4eilr",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "svg._yb_4eilr",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Yahoo  Mail, Weather, Search, Politics_802e32/svg__yb_4eilr_CSS.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>5ee00072-e41c-472a-bf2b-9c39883d3395</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.zgAlFc > span.z1asCe.MZy1Rb > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>bbfb921d-e7dc-45d6-b6d1-66408c776f79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3d89e391-24c2-4449-b1ee-a2ab8638f48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>c5df14c7-bfd6-40f6-9805-8eccafd86934</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>43654439-8aa4-444d-9ac5-3f7e06d4355d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tsf&quot;)/div[1]/div[@class=&quot;A8SBwf emcav&quot;]/div[@class=&quot;RNNXgb&quot;]/button[@class=&quot;Tg7LZd&quot;]/div[@class=&quot;zgAlFc&quot;]/span[@class=&quot;z1asCe MZy1Rb&quot;]/svg[1]</value>
+      <webElementGuid>4a4e26a8-28bc-43db-9a55-834b4e668a7a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
